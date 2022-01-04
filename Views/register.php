@@ -117,7 +117,6 @@
   </div>
 </div>
 <!-- /.login-box -->
-
 <!-- jQuery -->
 <script src="../Util/js/jquery.min.js"></script>
 <!-- Bootstrap 4 -->
